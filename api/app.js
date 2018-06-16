@@ -6,7 +6,7 @@ app.get('/', (req, res) => {
     fs.readFile('./hello.txt', (err, text) => {
         if (err) {
             console.error(err);
-            res.end();
+            return res.end();
         }
         res.end(`${text} Barcamp! PID: ${process.pid}`);
     });
