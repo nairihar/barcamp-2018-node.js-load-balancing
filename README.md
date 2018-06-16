@@ -1,8 +1,8 @@
-# Barcamp 2018
-NodeJS Load Balancing
+# Barcamp 2018 - NodeJS Load Balancing
 
 ----------
 ## Introduction
+NodeJS Load Balancing with Nginx and Redis PUB/SUB with Socket
 
 > - **NodeJS**
 > - **Nginx**
