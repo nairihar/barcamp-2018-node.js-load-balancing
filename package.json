@@ -1,0 +1,17 @@
+{
+  "name": "barcamp-2018-nodejs-load-balancing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nairi Harutyunyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1",
+    "socket.io-emitter": "^3.1.1",
+    "socket.io-redis": "^5.2.0"
+  }
+}
